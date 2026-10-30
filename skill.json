@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-customs-valuation-assist-duties-apportionment-skill",
+  "version": "1.0.0",
+  "title": "Customs Valuation Assists & Tooling Cost Apportionment Skill",
+  "category": "Agentic Commerce (Customs Audit & Trade Law)",
+  "description": "Apportions buyer-provided engineering, molds, dies, and tooling assists across import production runs in compliance with 19 C.F.R. \u00a7 152.103 and WTO Customs Valuation Agreement.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "apportion_customs_assists_tooling"
+  ],
+  "dependencies": []
+}
